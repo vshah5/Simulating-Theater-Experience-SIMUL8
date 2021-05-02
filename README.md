@@ -1,9 +1,11 @@
 # Simulating-Theater-Experience-SIMUL8
 
-**Summary**
+**Summary:**
+
 Created multiple simulation models on SIMUL8 software for a theater company to modify number of staff members, starting times, kiosks, and guest arrivals in order to maximize the number of customers as well as maximize profits for the theater.
 
-**Details**
+**Details:**
+
 *Current Allocation*
 For the current case allocation, Cascade on Broadway currently would have 1 staff member at the box office, 3 ushers, 2 bartenders and 1 worker for the bodega. With these 7 staff members, they would only manage to seat 463 viewers out of a possible 1475 before 8:05pm when the show starts which is less than a third of all customers. This means that over two-thirds of all customers would miss the first half of the show as they would not be allowed in until intermission. Additionally, this will lead to only 59 people attending the bar where the margins are the highest. This leads us to the conclusion that more staff members are needed in order to get everyone into the theatre before 8:05pm when the show begins.
 
